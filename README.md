@@ -122,6 +122,8 @@ Download pre-trained models, extract to **_./saved_models/_**
 ## Automatic Shape Adjusting with Differentiable ARAP-based Blending
 ---
 
+Download pre-computed inverse A and save it to ./automatic_shape_adjusting: [download](https://people.ece.ubc.ca/yanpz/ACCV2022/iA.npy)
+
 - [./automatic_shape_adjusting/arap_demo.py](./automatic_shape_adjusting/arap_demo.py) demonstrates our differentiable ARAP method using an example 3D shape.
 
 - [./automatic_shape_adjusting/shape_adjusting.ipynb](./automatic_shape_adjusting/shape_adjusting.ipynb) demonstrates the automatic shape adjusting.
