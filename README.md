@@ -1,6 +1,7 @@
 # NEO-3DF: Novel Editing-Oriented 3D Face Creation and Reconstruction Framework
 
 ## [Project Homepage](https://peizhiyan.github.io/docs/neo3df/)
+[![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
 
 ---
 
