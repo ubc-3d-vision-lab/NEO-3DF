@@ -13,11 +13,12 @@ This repo. is the official implementation of our paper:
 Please cite the following paper if you find this work is helpful to your research: 
 
 ```
-@inproceedings{yan2022neo3df,
-    title={NEO-3DF: Novel Editing-Oriented 3D Face Creation and Reconstruction},
-    author={Peizhi Yan and James Gregson and Qiang Tang and Rabab Ward and Zhan Xu and Shan Du},
-    booktitle={Asian Conference on Computer Vision (ACCV)},
-    year={2022}
+@inproceedings{yan2022neo,
+  title={NEO-3DF: Novel Editing-Oriented 3D Face Creation and Reconstruction},
+  author={Yan, Peizhi and Gregson, James and Tang, Qiang and Ward, Rabab and Xu, Zhan and Du, Shan},
+  booktitle={Proceedings of the Asian Conference on Computer Vision},
+  pages={486--502},
+  year={2022}
 }
 ```
 
